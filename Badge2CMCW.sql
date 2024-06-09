@@ -117,6 +117,7 @@ RENAME TO INTL_DB.PUBLIC.INT_STDS_ORG_3166;
 // Empty the table ("truncate") and Load it again!
 TRUNCATE TABLE INTL_DB.PUBLIC.INT_STDS_ORG_3166;
 
+
 // Test Whether You Set Up Your Table in the Right Place with the Right Name
 // Can "ask" the Information Schema Table called "Tables" to count the number of times 
 // a table with that name, in a certain schema, in a certain database (catalog) exists. 
@@ -131,6 +132,7 @@ select count(*) as OBJECTS_FOUND
 from INTL_DB.INFORMATION_SCHEMA.TABLES 
 where table_schema='PUBLIC'
 and table_name= 'INT_STDS_ORG_3166';
+
 
 // Test That You Loaded the Expected Number of Rows
 // Can "ask" the Information Schema Table called "Tables" 
