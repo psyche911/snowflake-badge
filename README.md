@@ -7,3 +7,10 @@ Badge 1 CWWW:
 - Copy Into Statement to load data
 - Sequence 
 - JSON Data
+
+Badge 2 CMCW:
+- Inbound Shares
+- Joining Local Data With Shared Data
+- Sharing Data with Other Accounts
+- Code checking Metadata
+
