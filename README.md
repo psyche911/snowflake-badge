@@ -1,2 +1,2 @@
 # snowflake-badge
-Hands-on SQL statements from workshops for self-study
+Hands-on SQL statements from SF training workshops for self-study
